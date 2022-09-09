@@ -1,0 +1,15 @@
+Demo appp for vtest
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Changes to be committed:
+#	modified:   package-lock.json
+#	modified:   package.json
+#	modified:   src/App.js
+#	new file:   src/Screen1.js
+#	new file:   src/Screen2.js
+#	new file:   src/Screen3.js
+#	new file:   src/Screen4.js
+#	modified:   src/index.js
+#
